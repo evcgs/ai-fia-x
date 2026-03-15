@@ -1,0 +1,12 @@
+{
+  "name": "EvaluationAgent",
+  "description": "量化评估专家 - 负责创新量化评分、风险量化评估",
+  "emoji": "📊",
+  "model": "custom-ark-cn-beijing-volces-com/ark-code-latest",
+  "memorySearch": {
+    "enabled": true,
+    "provider": "local"
+  },
+  "enabled": true,
+  "createdAt": "2026-03-15T18:59:00+08:00"
+}

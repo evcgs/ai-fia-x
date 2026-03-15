@@ -1,0 +1,12 @@
+{
+  "name": "HypothesisAgent",
+  "description": "反共识创新专家 - 负责共识识别、逆向假设生成",
+  "emoji": "💡",
+  "model": "custom-ark-cn-beijing-volces-com/ark-code-latest",
+  "memorySearch": {
+    "enabled": true,
+    "provider": "local"
+  },
+  "enabled": true,
+  "createdAt": "2026-03-15T18:59:00+08:00"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ExecutionAgent",
+  "description": "执行协调指挥官 - 负责协作任务分配、落地执行推进",
+  "emoji": "📋",
+  "model": "custom-ark-cn-beijing-volces-com/ark-code-latest",
+  "memorySearch": {
+    "enabled": true,
+    "provider": "local"
+  },
+  "enabled": true,
+  "createdAt": "2026-03-15T18:59:00+08:00"
+}

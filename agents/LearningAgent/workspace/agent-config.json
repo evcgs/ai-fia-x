@@ -1,0 +1,12 @@
+{
+  "name": "LearningAgent",
+  "description": "进化学习专家 - 负责案例沉淀、方法自我优化",
+  "emoji": "📈",
+  "model": "custom-ark-cn-beijing-volces-com/ark-code-latest",
+  "memorySearch": {
+    "enabled": true,
+    "provider": "local"
+  },
+  "enabled": true,
+  "createdAt": "2026-03-15T18:59:00+08:00"
+}

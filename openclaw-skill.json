@@ -1,0 +1,42 @@
+{
+  "name": "FIA-X 多智能体创新架构",
+  "identifier": "ai-fia-x",
+  "version": "1.2.0",
+  "description": "系统化AI创新方法论 - 第一性原理+跨学科交叉+反共识思维，七个专业智能体协同创新",
+  "author": "FIA-X Team",
+  "license": "MIT",
+  "repository": "https://github.com/evcgs/ai-fia-x",
+  "keywords": [
+    "fia",
+    "innovation",
+    "multi-agent",
+    "ai",
+    "openclaw-skill"
+  ],
+  "categories": [
+    "agent-framework",
+    "innovation"
+  ],
+  "dependencies": {
+    "openclaw": ">=2026.3.0",
+    "memos-cloud-openclaw-plugin": ">=0.1.9"
+  },
+  "install": {
+    "steps": [
+      {
+        "type": "copy",
+        "source": "agents/",
+        "target": "~/.openclaw/agents/"
+      },
+      {
+        "type": "info",
+        "message": "Please follow docs/配置示例.md to add the agents to your openclaw.json"
+      },
+      {
+        "type": "restart",
+        "message": "Restart OpenClaw gateway to complete installation"
+      }
+    ]
+  },
+  "maintainer": "evcgs"
+}

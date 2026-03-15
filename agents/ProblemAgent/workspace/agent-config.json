@@ -1,0 +1,12 @@
+{
+  "name": "ProblemAgent",
+  "description": "问题定义专家 - 负责因果建模、约束识别、问题本质拆解",
+  "emoji": "🔍",
+  "model": "custom-ark-cn-beijing-volces-com/ark-code-latest",
+  "memorySearch": {
+    "enabled": true,
+    "provider": "local"
+  },
+  "enabled": true,
+  "createdAt": "2026-03-15T18:59:00+08:00"
+}
