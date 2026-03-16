@@ -188,11 +188,11 @@ openclaw gateway restart
 
 ### 微信群
 
-![FIA-X交流群](https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-group-qrcode.png)
+<img src="https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-group-qrcode.png" alt="FIA-X交流群" width="200" height="200">
 
 ### 个人微信
 
-![作者微信](https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-qrcode.png)
+<img src="https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-qrcode.png" alt="作者微信" width="200" height="200">
 
 ---
 
