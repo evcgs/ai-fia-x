@@ -172,16 +172,6 @@ openclaw gateway restart
 
 ---
 
-## 📋 版本历史
-
-| 版本 | 日期 | 变更说明 |
-|------|------|----------|
-| **v1.2.0** | **2026-03-15** | **适配OIA规范，分层设计，项目→PMAgent，文档→DocAgent，完全符合OpenClaw规则** |
-| v1.1.0 | 2026-03-15 | 新增风险预审、新增一致性复核、优化LearningAgent参与方式 |
-| v1.0.0 | 2026-03-15 | 初始版本，七个智能体分工设计 |
-
----
-
 ## 💡 示例创新项目
 
 > **问题：如何让微信公众号文章阅读量稳定破万？**
@@ -198,13 +188,11 @@ openclaw gateway restart
 
 ### 微信群
 
-<!-- ![FIA-X交流群](docs/images/wechat-group-qrcode.png) -->
-*扫码加入FIA-X交流群*
+![FIA-X交流群](https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-group-qrcode.png)
 
 ### 个人微信
 
-<!-- ![个人微信](docs/images/wechat-qrcode.png) -->
-*扫码添加作者微信*
+![作者微信](https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-qrcode.png)
 
 ---
 
