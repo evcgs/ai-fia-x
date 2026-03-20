@@ -188,7 +188,7 @@ openclaw gateway restart
 
 ### 个人微信
 
-<img src="[https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-qrcode.png](https://github.com/evcgs/safety-boundary-initialization/raw/main/wx.png)" alt="作者微信" width="200" height="200">
+<img src="[https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-qrcode.png]" alt="作者微信" width="200" height="200">
 
 ---
 
