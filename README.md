@@ -186,11 +186,9 @@ openclaw gateway restart
 
 欢迎交流讨论，一起改进FIA-X：
 
-### 微信群
-
-<img src="https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-group-qrcode.png" alt="FIA-X交流群" width="200" height="200">
-
 ### 个人微信
+
+添加微信，备注「FIA-X+来意」：
 
 <img src="https://raw.githubusercontent.com/evcgs/ai-fia-x/main/docs/images/wechat-qrcode.png" alt="作者微信" width="200" height="200">
 
